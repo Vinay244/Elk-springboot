@@ -4,6 +4,6 @@ spring:
 
 server:
   port: 9898
-
+#Create a logs directory and change the path accordingly 
 logging:
   file: /home/vinay/logs/elk-stack.log
